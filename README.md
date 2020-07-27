@@ -1,6 +1,6 @@
 # musiclyric
 
-A new Flutter application.
+Music Lyric App task using Json api and bloc 
 
 ## Getting Started
 
